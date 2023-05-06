@@ -1,0 +1,1 @@
+DB_DIR="[DB Path]" cp-r $DB_DIR $DB_DIR-backup

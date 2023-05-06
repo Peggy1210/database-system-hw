@@ -1,0 +1,1 @@
+DB_DIR="[DB Path]" rm -r $DB_DIR cp -r $DB_DIR-backup $DB_DIR
